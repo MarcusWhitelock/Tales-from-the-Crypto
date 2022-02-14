@@ -26,17 +26,18 @@ A: The Sentiment analysis shows us that Ethereum had the highest positive score 
 
 # 2 Natural Language Processing
 - ## Ngrams 
-![Ngrams](Images/btc_ngrams.png)
-![Ngrams](Images/eth_ngrams.png)
+![Ngrams](Images/btcngrams.png)
+![Ngrams](Images/ethngrams.png)
 
 - ## Token Count
-![Ngrams](Images/token_count.png)
+![Ngrams](Images/btcsw.png)
+![Ngrams](Images/ethsw.png)
 
 - ## Word Clouds
-![Ngrams](Images/btc.png)
-![Ngrams](Images/eth.png)
+![Ngrams](Images/btcwc.png)
+![Ngrams](Images/ethwc.png)
 
 ---
 # 3 Named Entity Recognition 
-![Ngrams](Images/btc_ner_ents.png)
-![Ngrams](Images/eth_ner_ents.png)
+![Ngrams](Images/btcner.png)
+![Ngrams](Images/ethner.png)
